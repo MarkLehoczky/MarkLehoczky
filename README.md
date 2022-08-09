@@ -8,9 +8,9 @@
   - here 😉
 
 ## Work History
-- **Aircraft Maintenance Intern** at *Aeroplex of Central Europe Aircraft Technology Center Ltd.*
-- **Aircraft Maintenance Intern** at *Lufthansa Technik Budapest Ltd.*
-- **Railway General Worker Volunteer** at *Hungarian State Railway's Children's Railway*
+- **Aircraft Maintenance Intern** at *Aeroplex of Central Europe Aircraft Technology Center Ltd.* (2019)
+- **Aircraft Maintenance Intern** at *Lufthansa Technik Budapest Ltd.* (2018)
+- **Railway General Worker Volunteer** at *Hungarian State Railway's Children's Railway* (2011 - 2015)
 
 ## Education
 
