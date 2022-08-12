@@ -2,10 +2,10 @@
 - Hi, I’m ***Mark Lehoczky***
 - I’m interested in **Video Game Development**, **Artificial Intelligence** and **Internet of Things**
 - I’m currently a ***Computer Science Engineer*** student at *Óbuda University*
-- You can reach me at:
+- You can reach me:
   - marklehoczky@gmail.com
-  - https://www.linkedin.com/in/mark-lehoczky-291869231
-  - here 😉
+  - [LinkedIn](https://www.linkedin.com/in/mark-lehoczky-291869231)
+  - [here](https://www.github.com/MarkLehoczky) 😉
 
 ## Work History
 - 2019 August: **Aircraft Maintenance Intern** at *Aeroplex of Central Europe Aircraft Technology Center Ltd.*
