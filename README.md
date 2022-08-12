@@ -4,7 +4,7 @@
 - I’m currently a ***Computer Science Engineer*** student at *Óbuda University*
 - You can reach me:
   - marklehoczky@gmail.com
-  - [LinkedIn](https://www.linkedin.com/in/mark-lehoczky-291869231)
+  - [LinkedIn](https://www.linkedin.com/in/marklehoczky)
   - [here](https://www.github.com/MarkLehoczky) 😉
 
 ## Work History
