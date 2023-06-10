@@ -5,4 +5,3 @@
 - You can reach me:
   - marklehoczky@gmail.com
   - [LinkedIn](https://www.linkedin.com/in/marklehoczky)
-  - [here](https://www.github.com/MarkLehoczky) 😉
